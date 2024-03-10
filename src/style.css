@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #535353;
+  font-family: monospace;
+}
+
+.App {
+  position: relative;
+  max-width: 1024px;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 10px;
+  background: #eeeeee;
+  box-sizing: border-box;
+  box-shadow: 0 0 15px 5px #0000003b;
+}
+
+.App button {
+  font-size: large;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px rgb(212, 212, 212);
+  min-width: 50px;
+  min-height: 30px;
+  background: rgb(255, 255, 255);
+  border: 0;
+}

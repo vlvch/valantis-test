@@ -1,0 +1,13 @@
+.Footer {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Footer p {
+  min-width: 30px;
+}
+
+.Footer button {
+  min-height: 30px;
+}

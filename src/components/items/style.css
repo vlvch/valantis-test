@@ -1,0 +1,35 @@
+.Item {
+  display: flex;
+  box-shadow: 5px 5px 5px rgb(212, 212, 212);
+  border-radius: 5px;
+  min-height: 35px;
+  margin-bottom: 7px;
+  background: rgb(255, 255, 255);
+  align-items: center;
+  text-align: center;
+}
+
+.Item div {
+  padding: 0 5px;
+}
+
+.Item-brand {
+  min-width: 180px;
+}
+
+.Item-id {
+  min-width: 285px;
+}
+
+.Item-product {
+  text-align: left;
+  margin-right: auto;
+}
+
+.Item-price {
+  min-width: 110px;
+}
+
+.Item p {
+  margin: 10px;
+}
